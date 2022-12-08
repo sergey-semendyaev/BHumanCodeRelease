@@ -1,6 +1,6 @@
 [submodule "Util/CompiledNN"]
   path = Util/CompiledNN
-  url = https://github.com/bhuman/CompiledNN.git
+  url = https://github.com/sergey-semendyaev/CompiledNN.git
 [submodule "Util/SimRobot"]
   path = Util/SimRobot
-  url = https://github.com/bhuman/SimRobot.git
+  url = https://github.com/sergey-semendyaev/SimRobot.git
